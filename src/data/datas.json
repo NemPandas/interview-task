@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "title": "Test hotel 1",
+        "substring": "Naplementés hotel",
+        "img": "https://images.pexels.com/photos/258154/pexels-photo-258154.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 1",
+        "date": "2023.05.21"
+      },
+      {
+        "id": 2,
+       "title": "Test hotel 2",
+        "substring": "Szoba",
+        "img": "https://images.pexels.com/photos/271624/pexels-photo-271624.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 2",
+        "date": "2022.05.25"
+      },
+      {
+        "id": 3,
+        "title": "Test hotel 3",
+        "substring": "Medence",
+        "img": "https://images.pexels.com/photos/261102/pexels-photo-261102.jpeg?auto=compress&cs=tinysrgb&w=1000",
+        "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 3",
+        "date": "2022.05.23"
+      },
+      {
+        "id": 4,
+        "title": "Test hotel 4",
+        "substring": "Oceán",
+        "img": "https://images.pexels.com/photos/261181/pexels-photo-261181.jpeg?auto=compress&cs=tinysrgb&w=1000",
+        "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 4",
+        "date": "2022.05.21"
+      },
+      {
+        "id": 5,
+        "title": "Test hotel 5",
+        "substring": "Belső Medence",
+        "img": "https://images.pexels.com/photos/1134176/pexels-photo-1134176.jpeg?auto=compress&cs=tinysrgb&w=1000",
+        "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 5",
+        "date": "2022.03.25"
+      },
+      {
+        "id": 6,
+        "title": "Test hotel 6",
+        "substring": "Medence 2",
+        "img": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg?auto=compress&cs=tinysrgb&w=1000",
+        "describe": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 6",
+        "date": "2022.03.20"
+      }
+]
